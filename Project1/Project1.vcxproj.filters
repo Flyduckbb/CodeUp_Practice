@@ -15,12 +15,6 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="연습2일차.c">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
-    <ClCompile Include="연습1일차.c">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
     <ClCompile Include="출력하기_1번.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
@@ -70,6 +64,12 @@
       <Filter>소스 파일</Filter>
     </ClCompile>
     <ClCompile Include="정수1개_입력_3번_출력.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="개인연습1일차.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="개인연습2일차.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
   </ItemGroup>

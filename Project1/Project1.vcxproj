@@ -150,10 +150,10 @@
       <SDLCheck Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">false</SDLCheck>
     </ClCompile>
     <ClCompile Include="실수둘째자리까지_입출력.c" />
-    <ClCompile Include="연습1일차.c">
+    <ClCompile Include="개인연습1일차.c">
       <PreprocessorDefinitions Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">WIN32;_DEBUG;_CONSOLE;%(PreprocessorDefinitions)_CRT_SECURE_NO_WARNINGS;</PreprocessorDefinitions>
     </ClCompile>
-    <ClCompile Include="연습2일차.c">
+    <ClCompile Include="개인연습2일차.c">
       <SDLCheck Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">false</SDLCheck>
     </ClCompile>
     <ClCompile Include="연월일_입출력.c" />
