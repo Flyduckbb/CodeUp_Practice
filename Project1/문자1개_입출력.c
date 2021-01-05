@@ -3,6 +3,9 @@
 
 int main(void)
 {
-	printf("Hello");
+	char ch;
+	scanf("%c", &ch);
+	printf("%c", ch);
+
 	return 0;
 }*/

@@ -3,6 +3,9 @@
 
 int main(void)
 {
-	printf("Hello");
+	float num;
+	scanf("%f", &num);
+	printf("%.2f", num);
+
 	return 0;
 }*/

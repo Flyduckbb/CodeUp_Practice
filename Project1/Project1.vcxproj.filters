@@ -24,5 +24,53 @@
     <ClCompile Include="출력하기_1번.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="출력하기_2번.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="출력하기_3번.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="출력하기_4번.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="출력하기_5번.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="출력하기_6번.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="출력하기_7번.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="정수1개_입출력.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="문자1개_입출력.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="실수1개_입출력.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="정수2개_입출력.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="문자2개_입출력_순서변경.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="실수둘째자리까지_입출력.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="정수1개_입력_3번_출력.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="시간_입출력.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="연월일_입출력.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="주민번호_입력_형태바꿔_출력.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
