@@ -1,4 +1,4 @@
-/*#include <stdio.h>
+#include <stdio.h>
 #include <stdlib.h>
 
 int main(void)
@@ -8,4 +8,4 @@ int main(void)
 	printf("%d:%d", hour, min);
 
 	return 0;
-}*/
+}

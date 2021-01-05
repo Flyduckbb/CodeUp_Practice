@@ -1,4 +1,4 @@
-/*#include <stdio.h>
+#include <stdio.h>
 #include <stdlib.h>
 
 int main(void)
@@ -8,4 +8,4 @@ int main(void)
 	printf("%04d.%02d.%02d", year, month, day);
 
 	return 0;
-}*/
+}
