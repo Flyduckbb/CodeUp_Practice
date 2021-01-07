@@ -140,22 +140,33 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClCompile Include="10정수_입력_8진수_출력.c" />
+    <ClCompile Include="년월일_입력_형식바꿔_출력.c" />
+    <ClCompile Include="단어1개_입력_나누어출력.c" />
+    <ClCompile Include="단어1개_입출력.c" />
     <ClCompile Include="문자1개_입출력.c">
       <SDLCheck Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">false</SDLCheck>
     </ClCompile>
     <ClCompile Include="문자2개_입출력_순서변경.c">
       <SDLCheck Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">false</SDLCheck>
     </ClCompile>
+    <ClCompile Include="문장1개_입출력.c" />
     <ClCompile Include="시간_입출력.c" />
+    <ClCompile Include="시분초_입력_분_출력.c" />
+    <ClCompile Include="실수1개_입력_부분출력.c" />
     <ClCompile Include="실수1개_입출력.c">
       <SDLCheck Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">false</SDLCheck>
     </ClCompile>
+    <ClCompile Include="실수1개_입출력_2.c" />
     <ClCompile Include="실수둘째자리까지_입출력.c" />
     <ClCompile Include="연월일_입출력.c" />
     <ClCompile Include="정수1개_입력_3번_출력.c" />
+    <ClCompile Include="정수1개_입력_나누어출력.c" />
     <ClCompile Include="정수1개_입출력.c">
       <SDLCheck Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">false</SDLCheck>
     </ClCompile>
+    <ClCompile Include="정수1개_입출력_2.c" />
+    <ClCompile Include="정수1개_입출력_3.c" />
     <ClCompile Include="정수2개_입출력.c">
       <SDLCheck Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">false</SDLCheck>
     </ClCompile>
