@@ -172,6 +172,7 @@
     </ClCompile>
     <ClCompile Include="정수1개_입출력_2.c" />
     <ClCompile Include="정수1개_입출력_3.c" />
+    <ClCompile Include="정수2개_입력_합_출력.c" />
     <ClCompile Include="정수2개_입출력.c">
       <SDLCheck Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">false</SDLCheck>
     </ClCompile>
