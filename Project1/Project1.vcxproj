@@ -196,6 +196,7 @@
     <ClCompile Include="출력하기_5번.c" />
     <ClCompile Include="출력하기_6번.c" />
     <ClCompile Include="출력하기_7번.c" />
+    <ClCompile Include="한번에_2의거듭제곱_출력.c" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
