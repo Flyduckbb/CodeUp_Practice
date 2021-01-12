@@ -141,6 +141,7 @@
   </ItemDefinitionGroup>
   <ItemGroup>
     <ClCompile Include="10정수_입력_8진수_출력.c" />
+    <ClCompile Include="10진정수_입력_16진수_출력.c" />
     <ClCompile Include="년월일_입력_형식바꿔_출력.c" />
     <ClCompile Include="단어1개_입력_나누어출력.c" />
     <ClCompile Include="단어1개_입출력.c" />
