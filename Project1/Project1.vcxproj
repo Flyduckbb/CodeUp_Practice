@@ -175,6 +175,7 @@
     <ClCompile Include="정수2개_입출력.c">
       <SDLCheck Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">false</SDLCheck>
     </ClCompile>
+    <ClCompile Include="정수_입력_아스키_출력.c" />
     <ClCompile Include="주민번호_입력_형태바꿔_출력.c" />
     <ClCompile Include="출력하기_2번.c" />
     <ClCompile Include="출력하기_1번.c">

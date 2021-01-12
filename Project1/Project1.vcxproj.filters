@@ -114,5 +114,8 @@
     <ClCompile Include="영문1개_입력_10진_출력.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="정수_입력_아스키_출력.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
