@@ -135,5 +135,8 @@
     <ClCompile Include="정수2개_입력_나눈나머지_출력.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="정수1개_입력_1더해_출력.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
