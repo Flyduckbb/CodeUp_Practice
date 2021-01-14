@@ -177,5 +177,8 @@
     <ClCompile Include="참거짓_서로같을때만_참_출력.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="둘다_거짓_참_출력.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>

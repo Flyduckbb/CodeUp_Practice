@@ -152,6 +152,7 @@
     <ClCompile Include="두_정수_입력_비교_2.c" />
     <ClCompile Include="두_정수_입력_비교_3.c" />
     <ClCompile Include="두_정수_입력_비교_4.c" />
+    <ClCompile Include="둘다_거짓_참_출력.c" />
     <ClCompile Include="둘다_참일_경우만_참_출력.c" />
     <ClCompile Include="문자1개_입력_다음문자_출력.c" />
     <ClCompile Include="문자1개_입출력.c">
