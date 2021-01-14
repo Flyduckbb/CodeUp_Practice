@@ -189,5 +189,8 @@
     <ClCompile Include="비트단위_OR_출력.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="비트단위_XOR_출력.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>

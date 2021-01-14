@@ -164,6 +164,7 @@
     <ClCompile Include="문장1개_입출력.c" />
     <ClCompile Include="비트단위_AND_출력.c" />
     <ClCompile Include="비트단위_OR_출력.c" />
+    <ClCompile Include="비트단위_XOR_출력.c" />
     <ClCompile Include="비트단위로_NOT하여_출력.c" />
     <ClCompile Include="시간_입출력.c" />
     <ClCompile Include="시분초_입력_분_출력.c" />
