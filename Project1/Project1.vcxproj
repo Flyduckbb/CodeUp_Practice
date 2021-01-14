@@ -191,6 +191,7 @@
     <ClCompile Include="정수3개_입력_합과평균_출력.c" />
     <ClCompile Include="정수_입력_아스키_출력.c" />
     <ClCompile Include="주민번호_입력_형태바꿔_출력.c" />
+    <ClCompile Include="참거짓_바꾸기.c" />
     <ClCompile Include="출력하기_2번.c" />
     <ClCompile Include="출력하기_1번.c">
       <SDLCheck Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">false</SDLCheck>
