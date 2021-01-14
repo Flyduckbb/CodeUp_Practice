@@ -153,5 +153,8 @@
     <ClCompile Include="두_정수_입력_비교_1.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="두_정수_입력_비교_2.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
