@@ -148,6 +148,7 @@
     <ClCompile Include="년월일_입력_형식바꿔_출력.c" />
     <ClCompile Include="단어1개_입력_나누어출력.c" />
     <ClCompile Include="단어1개_입출력.c" />
+    <ClCompile Include="두_정수_입력_비교_1.c" />
     <ClCompile Include="문자1개_입력_다음문자_출력.c" />
     <ClCompile Include="문자1개_입출력.c">
       <SDLCheck Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">false</SDLCheck>
