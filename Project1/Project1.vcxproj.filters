@@ -168,5 +168,8 @@
     <ClCompile Include="둘다_참일_경우만_참_출력.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="하나라도_참이면_참_출력.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
