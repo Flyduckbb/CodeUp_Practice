@@ -195,5 +195,8 @@
     <ClCompile Include="두정수_입력_큰수_출력.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="정수3개_입력_가장작은수_출력.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
