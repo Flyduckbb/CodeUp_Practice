@@ -196,6 +196,7 @@
       <SDLCheck Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">false</SDLCheck>
     </ClCompile>
     <ClCompile Include="정수3개_입력_가장작은수_출력.c" />
+    <ClCompile Include="정수3개_입력_짝수만_출력.c" />
     <ClCompile Include="정수3개_입력_합과평균_출력.c" />
     <ClCompile Include="정수_입력_아스키_출력.c" />
     <ClCompile Include="주민번호_입력_형태바꿔_출력.c" />
