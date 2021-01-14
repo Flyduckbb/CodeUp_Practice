@@ -180,5 +180,8 @@
     <ClCompile Include="둘다_거짓_참_출력.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="비트단위로_NOT하여_출력.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
