@@ -215,6 +215,7 @@
     <ClCompile Include="출력하기_5번.c" />
     <ClCompile Include="출력하기_6번.c" />
     <ClCompile Include="출력하기_7번.c" />
+    <ClCompile Include="평가_입력_다르게_출력.c" />
     <ClCompile Include="하나라도_참이면_참_출력.c" />
     <ClCompile Include="한번에_2의거듭제곱_출력.c" />
   </ItemGroup>
