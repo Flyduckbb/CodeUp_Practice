@@ -203,6 +203,7 @@
     <ClCompile Include="정수3개_입력_짝수만_출력.c" />
     <ClCompile Include="정수3개_입력_짝홀_출력.c" />
     <ClCompile Include="정수3개_입력_합과평균_출력.c" />
+    <ClCompile Include="정수_입력_계속_출력.c" />
     <ClCompile Include="정수_입력_아스키_출력.c" />
     <ClCompile Include="주민번호_입력_형태바꿔_출력.c" />
     <ClCompile Include="참거짓_바꾸기.c" />
