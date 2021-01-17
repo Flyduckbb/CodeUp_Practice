@@ -186,6 +186,7 @@
     <ClCompile Include="정수1개_입력_나누어출력.c" />
     <ClCompile Include="정수1개_입력_부호바꿔_출력.c" />
     <ClCompile Include="정수1개_입력_분석.c" />
+    <ClCompile Include="정수1개_입력_카운트다운_출력.c" />
     <ClCompile Include="정수1개_입력_평가_출력.c" />
     <ClCompile Include="정수1개_입출력.c">
       <SDLCheck Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">false</SDLCheck>
