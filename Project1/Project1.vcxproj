@@ -140,6 +140,7 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClCompile Include="0입력까지_무한출력_2.c" />
     <ClCompile Include="0입력될때까지_무한출력.c" />
     <ClCompile Include="10정수_입력_8진수_출력.c" />
     <ClCompile Include="10진정수_입력_16진수_출력.c" />
