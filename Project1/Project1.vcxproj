@@ -195,6 +195,7 @@
     </ClCompile>
     <ClCompile Include="정수1개_입출력_2.c" />
     <ClCompile Include="정수1개_입출력_3.c" />
+    <ClCompile Include="정수1걔_입력_입력된정수까지_출력.c" />
     <ClCompile Include="정수2개_입력_나눈나머지_출력.c" />
     <ClCompile Include="정수2개_입력_나눈몫_출력.c" />
     <ClCompile Include="정수2개_입력_자동계산.c" />

@@ -234,5 +234,8 @@
     <ClCompile Include="문자1개_입력_알파벳_출력.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="정수1걔_입력_입력된정수까지_출력.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
