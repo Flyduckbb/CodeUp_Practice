@@ -228,5 +228,8 @@
     <ClCompile Include="정수1개_입력_카운트다운_출력.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="정수1개_입력_카운트다운_출력_2.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
