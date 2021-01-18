@@ -158,6 +158,7 @@
     <ClCompile Include="둘다_거짓_참_출력.c" />
     <ClCompile Include="둘다_참일_경우만_참_출력.c" />
     <ClCompile Include="문자1개_입력_다음문자_출력.c" />
+    <ClCompile Include="문자1개_입력_알파벳_출력.c" />
     <ClCompile Include="문자1개_입출력.c">
       <SDLCheck Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">false</SDLCheck>
     </ClCompile>
