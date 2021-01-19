@@ -173,6 +173,7 @@
     <ClCompile Include="비트단위_XOR_출력.c" />
     <ClCompile Include="비트단위로_NOT하여_출력.c" />
     <ClCompile Include="빛_섞어_색_만들기.c" />
+    <ClCompile Include="소리파일_저장용량_계산하기.c" />
     <ClCompile Include="시간_입출력.c" />
     <ClCompile Include="시분초_입력_분_출력.c" />
     <ClCompile Include="실수1개_입력_부분출력.c" />

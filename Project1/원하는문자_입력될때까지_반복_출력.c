@@ -7,7 +7,7 @@ int main(void)
 
 	do
 	{
-		scanf("%s", &ch);
+		scanf("%c ", &ch);
 		printf("%c\n", ch);
 	} while (ch != 'q');
 
