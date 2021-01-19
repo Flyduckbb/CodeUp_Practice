@@ -240,5 +240,8 @@
     <ClCompile Include="짝수_합_구하기.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="원하는문자_입력될때까지_반복_출력.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>

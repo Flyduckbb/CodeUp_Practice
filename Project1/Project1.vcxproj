@@ -180,6 +180,7 @@
     <ClCompile Include="실수둘째자리까지_입출력.c" />
     <ClCompile Include="연월일_입출력.c" />
     <ClCompile Include="영문1개_입력_10진_출력.c" />
+    <ClCompile Include="원하는문자_입력될때까지_반복_출력.c" />
     <ClCompile Include="월_입력_계절_출력.c" />
     <ClCompile Include="정수1개_입력_1더해_출력.c" />
     <ClCompile Include="정수1개_입력_2배_출력.c" />
