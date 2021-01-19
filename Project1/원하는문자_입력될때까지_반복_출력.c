@@ -12,4 +12,4 @@ int main(void)
 	} while (ch != 'q');
 
 	return 0;
-}
+} 
