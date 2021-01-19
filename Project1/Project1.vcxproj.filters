@@ -255,5 +255,8 @@
     <ClCompile Include="369게임의_왕이되자.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="빛_섞어_색_만들기.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
