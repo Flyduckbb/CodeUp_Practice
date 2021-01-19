@@ -249,5 +249,8 @@
     <ClCompile Include="주사위_2개_던지면.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="16진수_구구단.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
