@@ -252,5 +252,8 @@
     <ClCompile Include="16진수_구구단.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="369게임의_왕이되자.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
