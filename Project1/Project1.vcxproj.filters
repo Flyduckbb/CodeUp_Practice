@@ -261,5 +261,8 @@
     <ClCompile Include="소리파일_저장용량_계산하기.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="그림파일_저장용량_계산.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
