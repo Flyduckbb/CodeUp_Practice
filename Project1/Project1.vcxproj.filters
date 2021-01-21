@@ -282,5 +282,8 @@
     <ClCompile Include="함께_문제_푸는_날.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="이상한_출석번호_부르기_1.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
