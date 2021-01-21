@@ -273,5 +273,8 @@
     <ClCompile Include="수_나열하기_1.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="수_나열하기_2.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
