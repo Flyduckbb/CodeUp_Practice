@@ -178,6 +178,7 @@
     <ClCompile Include="소리파일_저장용량_계산하기.c" />
     <ClCompile Include="수_나열하기_1.c" />
     <ClCompile Include="수_나열하기_2.c" />
+    <ClCompile Include="수_나열하기_3.c" />
     <ClCompile Include="시간_입출력.c" />
     <ClCompile Include="시분초_입력_분_출력.c" />
     <ClCompile Include="실수1개_입력_부분출력.c" />
