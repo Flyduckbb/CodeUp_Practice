@@ -264,5 +264,8 @@
     <ClCompile Include="그림파일_저장용량_계산.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="여기까지_이제그만.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>

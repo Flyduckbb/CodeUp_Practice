@@ -183,6 +183,7 @@
     </ClCompile>
     <ClCompile Include="실수1개_입출력_2.c" />
     <ClCompile Include="실수둘째자리까지_입출력.c" />
+    <ClCompile Include="여기까지_이제그만.c" />
     <ClCompile Include="연월일_입출력.c" />
     <ClCompile Include="영문1개_입력_10진_출력.c" />
     <ClCompile Include="원하는문자_입력될때까지_반복_출력.c" />
