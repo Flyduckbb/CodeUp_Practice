@@ -267,5 +267,8 @@
     <ClCompile Include="여기까지_이제그만.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="3의_배수는_패스.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
