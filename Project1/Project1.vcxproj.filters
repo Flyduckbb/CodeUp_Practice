@@ -279,5 +279,8 @@
     <ClCompile Include="수_나열하기_3.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="함께_문제_푸는_날.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>

@@ -240,6 +240,7 @@
     <ClCompile Include="평가_입력_다르게_출력.c" />
     <ClCompile Include="하나라도_참이면_참_출력.c" />
     <ClCompile Include="한번에_2의거듭제곱_출력.c" />
+    <ClCompile Include="함께_문제_푸는_날.c" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
