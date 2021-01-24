@@ -294,5 +294,8 @@
     <ClCompile Include="바둑판에_흰_돌_놓기.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="바둑알_십자_뒤집기.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
