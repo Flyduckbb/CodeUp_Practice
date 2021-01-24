@@ -177,6 +177,7 @@
     <ClCompile Include="비트단위_XOR_출력.c" />
     <ClCompile Include="비트단위로_NOT하여_출력.c" />
     <ClCompile Include="빛_섞어_색_만들기.c" />
+    <ClCompile Include="설탕과자_뽑기.c" />
     <ClCompile Include="소리파일_저장용량_계산하기.c" />
     <ClCompile Include="수_나열하기_1.c" />
     <ClCompile Include="수_나열하기_2.c" />

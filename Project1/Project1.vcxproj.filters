@@ -297,5 +297,8 @@
     <ClCompile Include="바둑알_십자_뒤집기.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="설탕과자_뽑기.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
