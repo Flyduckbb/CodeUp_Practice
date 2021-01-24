@@ -291,5 +291,8 @@
     <ClCompile Include="이상한_출석_번호_부르기_3.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="바둑판에_흰_돌_놓기.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
