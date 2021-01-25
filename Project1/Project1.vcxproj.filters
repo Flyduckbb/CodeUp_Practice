@@ -300,5 +300,8 @@
     <ClCompile Include="설탕과자_뽑기.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="성실한_개미.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
