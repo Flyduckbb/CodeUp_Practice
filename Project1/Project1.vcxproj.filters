@@ -303,5 +303,8 @@
     <ClCompile Include="성실한_개미.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="1805_입체기동장치_생산공장.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
