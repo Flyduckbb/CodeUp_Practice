@@ -1,13 +1,17 @@
 #include <stdio.h>
 #include <stdlib.h>
 
+typedef struct data_sort {
+	int data;
+	int index;
+} DS;
+
 void insert_data(int A[], int count)
 {
 	for (int i = 0; i < count; i++)
 	{
-		int num;
-		scanf("%d", &num);
-		A[i] = num;
+		scanf("%d", &A[i].data);
+		A[i].index = i;
 	}
 }
 
@@ -20,13 +24,13 @@ void print_data(int A[], int count)
 int main(void)
 {
 	int cnt;
-	int arry[50000];
+	int DS[50000];
 
 	scanf("%d", &cnt);
 
-	insert_data(arry, cnt);
+	insert_data(DS, cnt);
 
-	print_data(arry, cnt);
+	print_data(DS, cnt);
 
 	return 0;
 }
