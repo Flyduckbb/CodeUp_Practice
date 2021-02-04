@@ -148,6 +148,7 @@
     <ClCompile Include="16진_입력_8진_출력.c" />
     <ClCompile Include="16진수_구구단.c" />
     <ClCompile Include="1805_입체기동장치_생산공장.c" />
+    <ClCompile Include="3004_데이터_재정렬.c" />
     <ClCompile Include="369게임의_왕이되자.c" />
     <ClCompile Include="3의_배수는_패스.c" />
     <ClCompile Include="8진_입력_10진_출력.c" />
