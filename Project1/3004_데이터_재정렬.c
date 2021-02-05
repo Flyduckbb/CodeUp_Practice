@@ -1,60 +1,56 @@
-#include <stdio.h>
-#include <stdlib.h>
+#include<stdio.h>
 
-typedef struct data_rebuild {
-	int data;
-	int index;
-} DR;
-
-void qsort(int A[], int p, int r)
+void swap(int* a, int* b)
 {
-	int q;
-
-	if (p < r)
-	{
-		q = partition(A, p, r);
-		qsort(A, p, q - 1);
-		qsort(A, q + 1, r);
-	}
+	int t = *a;
+	*a = *b;
+	*b = t;
 }
 
-int partition(int B[], int pp, int rr)
+void qSort(int left, int right, int* data)
 {
-	int x = B[rr];
-	int i = pp - 1;
-	for (int j = pp; j < rr; j++)
-	{
-		if (B[j] <= x)
-		{
-			int a = B[++i];
-			B[i] = B[j];
-			B[j] = a;
+	int pivot = left;
+	int i = left + 1;
+	int j = pivot + 1;
+
+	if (left < right) {
+		for (; i <= right; i++) {
+			if (data[pivot] > data[i]) {
+				swap(&data[j], &data[i]);
+				j++;
+			}
 		}
+		swap(&data[j - 1], &data[pivot]);
+		pivot = j - 1;
 
+		qSort(left, pivot - 1, data);
+		qSort(pivot + 1, right, data);
 	}
-	int b = B[i + 1];
-	B[i + 1] = B[rr];
-	B[rr] = b;
-	return i + 1;
 }
 
-int main(void)
-{
-	DR arry[50000];
+int main(void) {
 	int cnt;
+	int arr[50000];
+	int arr2[500000];
 
 	scanf("%d", &cnt);
 
 	for (int i = 0; i < cnt; i++)
 	{
-		scanf("%d", &arry[i].data);
-		arry[i].index = i;
+		scanf("%d", &arr[i]);
+		arr2[i] = arr[i];
 	}
 
-	qsort(arry, 0, cnt - 1);
+	qSort(0, cnt - 1, arr);
 
 	for (int i = 0; i < cnt; i++)
-		printf("%d ", arry[i].index);
+	{
+		for (int j = 0; j < cnt; j++)
+		{
+			if (arr2[i] == arr[j])
+				printf("%d ", j);
+		}
+	}
 
 	return 0;
 }
